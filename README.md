@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋 I'm Priyabrat Pradhan
 
-<!--
-**priyabrat8108/priyabrat8108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 Full Stack Developer passionate about building scalable web applications and enterprise systems.
+⚙️ Skilled in backend, frontend, DevOps, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* TypeScript
+* SQL
+
+### Frontend
+
+* React
+* Vite
+* Tailwind CSS
+* HTML / CSS
+
+### Backend
+
+* Django
+* Django REST Framework
+* REST APIs
+* JWT Auth
+
+### DevOps / Tools
+
+* Git & GitHub
+* Linux
+* PostgreSQL
+* Render
+* Vercel
+
+---
+
+## 📌 Featured Projects
+
+* 📦 Godrej Inventory Management System
+* ✈️ Tours & Travels Website
+* 💎 Jewellery Website
+* 🚗 Car Information Website
+
+---
+
+## 📈 Currently Learning
+
+* Advanced DevOps
+* AI Integration
+* System Design
+* Cloud Deployment
+
+---
+
+## 🎯 Career Goal
+
+Seeking opportunities to build impactful products and grow as a software engineer.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/priyabrat8108
